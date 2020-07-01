@@ -1,4 +1,4 @@
-package cn.tedu.demo.cache;
+package cn.tedu.cache;
 
 public interface Cache {
     public static void main(String[] args) {
